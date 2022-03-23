@@ -4,9 +4,9 @@
 using namespace std;
 Date::Date() 
 {
-	y = 2022;
-	m = 10;
-	d = 4;
+	y = 1945;
+	m = 43;
+	d = 123;
 
 }
 void Date::print ()

@@ -1,4 +1,5 @@
 ﻿  Date.cpp
-  main.cpp
-  Создание кода...
+C:\Users\ElRomario\source\repos\Class\Class\Date.cpp(20,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\ElRomario\source\repos\Class\Class\Date.cpp(20,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\ElRomario\source\repos\Class\Class\Date.cpp(20,6): warning C4101: d: неиспользованная локальная переменная
   Class.vcxproj -> C:\Users\ElRomario\source\repos\Class\x64\Debug\Class.exe

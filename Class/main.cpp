@@ -1,6 +1,11 @@
 #include "Date.h"
 
-int main() {
+int main() 
+{
 	Date date;
+	date.print();
+	date.SetNullDate();
+	date.print();
+	date.SetDate();
 	date.print();
 }

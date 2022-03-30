@@ -1,11 +1,13 @@
 #pragma once
 class Date
 {
+private:
 	int y, m, d;
 public:
-	Date();
-	void print();
 
-	int getY() const { return y; }
+	Date();
+	void SetNullDate();
+	void print();
+	void SetDate();
 };
 

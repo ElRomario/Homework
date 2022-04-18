@@ -1,13 +1,13 @@
 #pragma once
 class Date
 {
-private:
-	int y, m, d;
 public:
 
+	int y, m, d;
+
 	Date();
-	void SetNullDate();
-	void print();
+	Date(int y, int m, int d);
 	void SetDate();
+	void GetDate();
 };
 
